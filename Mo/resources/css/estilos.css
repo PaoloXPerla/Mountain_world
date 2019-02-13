@@ -1,0 +1,55 @@
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background: #C5CAE9;;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+  .unpoquito{
+    bottom: 50px;
+  }
+  .nombre{
+    background-image: url("../../resources/multimedia/nieve.jpg");
+  
+  }
+.nombre1{
+  background-image: url("../../resources/multimedia/rosamontaña.jpg");
+}
+.nombre2{
+  background-image: url("../../resources/multimedia/moddy.jpg");
+}
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 22px;
+    font-family: 'Roboto';
+  }
+ .botones{
+   position: absolute;
+   bottom: 100px;
+   display: inline-block;
+   position: absolute;
+ }
+ .ayuda{
+   position: relative;
+   bottom: 10px;
+ }
+ .up{
+
+  top: 575px;
+ }
+ .colorEnca{
+  background: #C5CAE9; 
+ }
+#section{
+  position: relative;
+  bottom: 500px;
+  position: fixed;
+
+}
