@@ -1,0 +1,35 @@
+.rowi{
+	margin: auto;
+	width: 75%;
+	padding: 100px;
+	
+
+}
+.row2{
+	
+	
+}
+.input-field{
+
+}
+.row{
+	padding: 150px;
+	border-radius: 10px;
+}
+.rowbtn{
+	margin: auto;
+	width: 20%;
+	padding: 25px;
+}
+body{
+	background-image: url("../multimedia/moddy.jpg") ;
+	background-repeat:no-repeat;
+	background-attachment: fixed
+}
+.blur {
+  
+
+    background-color:black;
+    background-color:rgba(0,0,0,0.8);
+  	
+}

@@ -1,0 +1,6 @@
+****añadi un boton y checkbox al carrito
+****Añadi mas campos al crear usuario
+****Añadi el boton 'Cantidad' a las tiendas
+****Implemente otro footer porque el otro era muy grande
+****Le puse imagenes al sidebar
+****Ya se muestra el Title de las ventanas
